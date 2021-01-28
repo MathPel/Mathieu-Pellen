@@ -24,15 +24,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Natural Science (Dr. rer. nat.)
+    institution: RWTH Aachen, Germany
+    year: 2015
+  - course: Master in Physics
+    institution: Grenoble Institute of Technology / Université Grenoble Alpes, France
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,7 +60,7 @@ social:
    link: media/CV_PELLEN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mathieu.pellen@physik.uni-freiburg.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -24,16 +24,29 @@ date_format: Jan 2006
 experience:
   - title:
     company: University of Freiburg
-    company_url: ''
+    company_url: 'https://uni-freiburg.de/'
     location: Germany
     date_start: '2020-10-01'
     date_end: ''
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title:
+    company: University of Cambridge
+    company_url: 'https://www.cam.ac.uk/'
+    location: Germany
+    date_start: '2018-10-01'
+    date_end: '2020-09-30'
+
+  - title:
+    company: University of Würzburg
+    company_url: 'https://www.uni-wuerzburg.de/'
+    location: Germany
+    date_start: '2015-10-01'
+    date_end: '2018-09-30'
+
+  - title: PhD student
+    company: RWTH Aachen University
+    company_url: 'https://www.rwth-aachen.de'
+    location: Germany
+    date_start: '2011-10-01'
+    date_end: '2015-09-30'
 ---

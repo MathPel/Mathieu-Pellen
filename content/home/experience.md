@@ -32,7 +32,7 @@ experience:
   - title:
     company: University of Cambridge
     company_url: 'https://www.cam.ac.uk/'
-    location: Germany
+    location: United Kingdom
     date_start: '2018-10-01'
     date_end: '2020-09-30'
 

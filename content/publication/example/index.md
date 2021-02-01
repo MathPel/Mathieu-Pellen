@@ -78,4 +78,3 @@ image:
 #slides: ""
 ---
 
-#The article can be downloaded at [here](https://arxiv.org/abs/2011.01011/).

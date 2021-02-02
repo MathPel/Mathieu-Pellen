@@ -37,4 +37,10 @@ design:
   view: 4
 ---
 
-Second test
+title: "some article"
+
+authors:
+- admin
+- XX
+
+abastract: my abstract.

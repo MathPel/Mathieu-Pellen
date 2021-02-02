@@ -77,4 +77,5 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: ""
 ---
+title: "test"
 

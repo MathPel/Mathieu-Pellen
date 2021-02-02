@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: article
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -36,11 +36,3 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
-title: "some article"
-
-authors:
-- admin
-- XX
-
-abastract: my abstract.

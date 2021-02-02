@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "NNLO QCD predictions for W+c-jet production at the LHC"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -34,7 +34,7 @@ doi: ""
 abstract: We study the production of a W boson in association with a c-jet at the LHC. We calculate, for the first time, the complete set of NNLO QCD corrections to the dominant CKM-diagonal contribution to this process. Both signatures, pp→μ+νμjc and pp→μ−ν¯μjc are considered. We present predictions for fiducial cross sections and differential distributions for each one of the two signatures as well as for their ratio. The theoretical predictions are compared with ATLAS measurements at 7TeV. The results of this work are essential for the precision description of associated heavy flavor production at hadron colliders and for the determination of the strange-quark content of the proton from LHC data in NNLO QCD. 
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -54,13 +54,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**2011.01011**](https://arxiv.org/pdf/2011.01011)'
-#   focal_point: ""
-#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

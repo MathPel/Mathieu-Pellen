@@ -14,12 +14,13 @@ organizations:
   url: https://uni-freiburg.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focus on high-energy physics.
+bio: I am a theoretical physicist working on high-energy physics.
 
 # Interests to show in About widget
 interests:
-- Particle physics
+- Phenomenology of high-energy physics
 - Theoretical calculations
+- Particle physics
 
 # Education to show in About widget
 education:
@@ -67,6 +68,7 @@ highlight_name: false
 ---
 
 I am a theoretical physicist working mainly on particle physics.
+My research focuses on the phenomenological and theoretical aspects of high-energy physics at hadron colliders and in particular the computation of higher-order corrections.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 

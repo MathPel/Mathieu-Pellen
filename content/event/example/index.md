@@ -1,7 +1,7 @@
 ---
 title: Stress testing the Standard Model via vector-boson scattering at the LHC
 
-event: DPG - Dortmund 2021, Invited Topical Talk
+event: DPG, Dortmund 2021, Invited Topical Talk
 # event_url: https://www.dpg-verhandlungen.de/year/2021/conference/dortmund/part/t/session/74/contribution/3?lang=en
 
 # location: Wowchemy HQ
@@ -17,7 +17,7 @@ summary: A discussion of vector-boson scattering at the LHC.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-18T15:00:00Z"
+date: "2021-03-12T15:00:00Z"
 all_day: false
 
 ## Schedule page publish date (NOT talk date).
@@ -34,7 +34,8 @@ image:
   focal_point: Right
 
 links:
-url_slides: "slides/PELLEN_DPG_2021.pdf"
+url_slides: "slides/PELLEN_Heidelberg_2020.pdf"
+#url_slides: "slides/PELLEN_DPG_2021.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

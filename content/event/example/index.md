@@ -2,7 +2,7 @@
 title: Stress testing the Standard Model via vector-boson scattering at the LHC
 
 event: DPG - Dortmund 2021, Invited Topical Talk
-event_url: https://www.dpg-verhandlungen.de/year/2021/conference/dortmund/part/t/session/74/contribution/3?lang=en
+# event_url: https://www.dpg-verhandlungen.de/year/2021/conference/dortmund/part/t/session/74/contribution/3?lang=en
 
 # location: Wowchemy HQ
 # address:
@@ -13,7 +13,7 @@ event_url: https://www.dpg-verhandlungen.de/year/2021/conference/dortmund/part/t
 #   country: United States
 
 summary: A discussion of vector-boson scattering at the LHC.
-abstract: Vector-boson scattering (VBS) processes have just started to be measured at the Large Hadron Collider (LHC). This is particularly exciting because this class of processes has been thought to be a possible window to new physics. But VBS is also interesting in its own right because it probes the Standard Model in extreme phase-space regions at high energy. The measurement of such processes is particularly challenging due to their low rates and large background. In this talk, I review necessary theoretical inputs to perform such measurements.
+# abstract: Vector-boson scattering (VBS) processes have just started to be measured at the Large Hadron Collider (LHC). This is particularly exciting because this class of processes has been thought to be a possible window to new physics. But VBS is also interesting in its own right because it probes the Standard Model in extreme phase-space regions at high energy. The measurement of such processes is particularly challenging due to their low rates and large background. In this talk, I review necessary theoretical inputs to perform such measurements.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

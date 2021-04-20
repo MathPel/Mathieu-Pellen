@@ -1,8 +1,8 @@
 ---
 title: Stress testing the Standard Model via vector-boson scattering at the LHC
 
-event: DPG - Dortmund 2021, Invited Topical Talk
-event_url: https://www.dpg-verhandlungen.de/year/2021/conference/dortmund/part/t/session/74/contribution/3?lang=en
+event: DPG - Graduate school seminar, Freiburg (Germany)
+event_url: https://www.grk2044.uni-freiburg.de/seminars
 
 # location: Wowchemy HQ
 # address:
@@ -17,7 +17,7 @@ abstract: Vector-boson scattering (VBS) processes have just started to be measur
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-12T15:00:00Z"
+date: "2021-04-21T16:15:00Z"
 all_day: false
 
 ## Schedule page publish date (NOT talk date).
@@ -34,7 +34,7 @@ image:
   focal_point: Right
 
 links:
-url_slides: "slides/PELLEN_DPG_2021.pdf"
+url_slides: "slides/PELLEN_Freiburg_2021.pdf"
 #url_slides: "slides/PELLEN_Heidelberg_2020.pdf"
 
 # Markdown Slides (optional).

@@ -1,7 +1,7 @@
 ---
 title: New physics opportunities in W+j at the LHC
 
-event: Particle Theory Seminar, Universit\"at W\"urzburg (Germany)
+event: Particle Theory Seminar, Universität Würzburg (Germany)
 event_url: https://www.physik.uni-wuerzburg.de/tp2/seminar-teilchentheorie/dr-mathieu-pellen/
 
 # location: Wowchemy HQ

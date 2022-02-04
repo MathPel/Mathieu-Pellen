@@ -1,20 +1,21 @@
 ---
-title: "Vector-Boson Scattering at the LHC: unravelling the Electroweak sector"
+title: "Quantum integration of elementary particle processes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Roberto Covarelli
+- Gabriele Agliardi
+- Michele Grossi
 - admin
-- Marco Zaro
+- Enrico Prati
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-02-22T00:00:00Z"
+date: "2022-02-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +31,8 @@ doi: ""
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: Vector-boson scattering (VBS) processes probe the innermost structure of electroweak (EW) interactions in the Standard Model (SM), and provide a unique sensitivity for new physics phenomena affecting the gauge sector. In this review, we report on the salient aspects of this class of processes, both from the theory and experimental point of view. We start by discussing recent achievements relevant for their theoretical description, some of which have set important milestones in improving the precision and accuracy of the corresponding simulations. We continue by covering the development of experimental techniques aimed at detecting these rare processes and improving the signal sensitivity over large backgrounds. We then summarize the details of the most relevant VBS signatures and review the related measurements available to date, along with their comparison with SM predictions. We conclude by discussing the perspective at the upcoming Large Hadron Collider runs and at future hadron facilities.
+abstract: We apply quantum integration to elementary particle-physics processes. In particular, we look at scattering processes such as e+ e− → q q̄ and e+ e− → q q̄ W. The corresponding probability distributions can be first appropriately loaded on a quantum computer using either quantum Generative Adversarial Networks or an exact method. The distributions are then integrated using the method of Quantum Amplitude Estimation which shows a quadratic speed-up with respect to classical techniques. In simulations of noiseless quantum computers, we obtain per-cent accurate results for one- and two-dimensional integration with up to six qubits. This work paves the way towards taking advantage of quantum algorithms for the integration of high-energy processes.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2102.10991'
+url_pdf: 'https://arxiv.org/abs/2201.01547'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**2102.10991**](https://arxiv.org/abs/2102.10991)'
+  caption: 'Image credit: [**2201.01547**](https://arxiv.org/abs/2201.01547)'
   focal_point: ""
   preview_only: false
 

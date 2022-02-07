@@ -52,6 +52,10 @@ links:
   icon_pack: ai
   name: arXiv:2201.01547
   url: https://arxiv.org/abs/2201.01547
+- icon: inspire
+  icon_pack: ai
+  name: inspire2001819
+  url: https://inspirehep.net/literature/2001819
 
 url_code: ''
 url_dataset: ''

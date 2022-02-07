@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We study polarisation of W-bosons produced in association with one jet at the LHC.
+abstract: We study polarisation of W-bosons produced in association with one jet at the LHC. In particular, we provide all necessary theoretical ingredients for the precise extraction of polarisation fractions.
 
 # Summary. An optional shortened abstract.
 summary: 

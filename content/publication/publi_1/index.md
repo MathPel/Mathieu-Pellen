@@ -2,7 +2,8 @@
 title: "Extracting analytical one-loop amplitudes from numerical evaluations"
 authors:
 - admin
-- Daniel Maitre
+- Rene Poncelet
+- Andrei Popescu
 date: "2019-04-08"
 doi: ""
 
@@ -19,7 +20,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: In this article we present a method to generate analytic expressions for the integral coefficients of loop amplitudes using numerical evaluations only. We use high-precision arithmetic to explore the singularity structure of the coefficients and decompose them into parts of manageable complexity. To illustrate the usability of our method we provide analytical expressions for all helicity configurations of the colour-ordered six-point gluon amplitudes at one loop with a gluon in the loop.
+abstract: We study polarisation of W-bosons produced in association with one jet at the LHC. In particular, we provide all necessary theoretical ingredients for the precise extraction of polarisation fractions. To that end, we present new polarised predictions up to NNLO QCD accuracy employing the narrow-width approximation, in two phase spaces: inclusive and fiducial. We compare results in the fiducial phase space to a full off-shell computation as well as experimental data. Finally, we fit the polarisation fractions using shape templates and show that NNLO corrections significantly improve their determination. 
 
 # Summary. An optional shortened abstract.
 summary: 

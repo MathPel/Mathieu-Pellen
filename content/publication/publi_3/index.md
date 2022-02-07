@@ -35,7 +35,7 @@ featured: false
 links:
 - icon: arxiv
   icon_pack: ai
-  name: arXiv: 2011.01011
+  name: arXiv:2011.01011
   url: https://arxiv.org/abs/2011.01011
 - icon: inspire
   icon_pack: ai

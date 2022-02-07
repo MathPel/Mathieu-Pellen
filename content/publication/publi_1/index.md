@@ -1,9 +1,10 @@
 ---
-title: "Extracting analytical one-loop amplitudes from numerical evaluations"
+title: "Polarised W+j production at the LHC: a study at NNLO QCD accuracy"
 authors:
 - admin
-- Daniel Maitre
-date: "2019-04-08"
+- Rene Poncelet
+- Andrei Popescu
+date: "2021-10-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,29 +20,25 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: In this article we present a method to generate analytic expressions for the integral coefficients of loop amplitudes using numerical evaluations only. We use high-precision arithmetic to explore the singularity structure of the coefficients and decompose them into parts of manageable complexity. To illustrate the usability of our method we provide analytical expressions for all helicity configurations of the colour-ordered six-point gluon amplitudes at one loop with a gluon in the loop.
+abstract: We study polarisation of W-bosons produced in association with one jet at the LHC. In particular, we provide all necessary theoretical ingredients for the precise extraction of polarisation fractions. To that end, we present new polarised predictions up to NNLO QCD accuracy employing the narrow-width approximation, in two phase spaces: inclusive and fiducial. We compare results in the fiducial phase space to a full off-shell computation as well as experimental data. Finally, we fit the polarisation fractions using shape templates and show that NNLO corrections significantly improve their determination. 
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
+- LHC
+- Polarised prediction
 - QCD
-- Scattering Amplitudes
-- Loop Calculations
-featured: true
+featured: false
 
 links:
 - icon: arxiv
   icon_pack: ai
-  name: arXiv:1904.04067
-  url: https://arxiv.org/abs/1904.04067
+  name: arXiv:2109.14336
+  url: https://arxiv.org/abs/2109.14336
 - icon: inspire
   icon_pack: ai
-  name: inspire1728738
-  url: https://inspirehep.net/literature/1728738
-- icon: springer
-  icon_pack: ai
-  name: JHEP 07 (2019) 123
-  url: https://doi.org/10.1007/JHEP07(2019)123
+  name: inspire1934979
+  url: https://inspirehep.net/literature/1934979
   
 ---

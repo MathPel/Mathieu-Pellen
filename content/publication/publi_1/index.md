@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We study polarisation of W-bosons produced in association with one jet at the LHC. In particular, we provide all necessary theoretical ingredients for the precise extraction of polarisation fractions.
+abstract: We study polarisation of W-bosons produced in association with one jet at the LHC. In particular, we provide all necessary theoretical ingredients for the precise extraction of polarisation fractions. To that end, we present new polarised predictions up to NNLO QCD accuracy employing the narrow-width approximation, in two phase spaces: inclusive and fiducial.
 
 # Summary. An optional shortened abstract.
 summary: 

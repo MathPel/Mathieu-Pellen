@@ -29,7 +29,7 @@ tags:
 - LHC
 - Polarised prediction
 - QCD
-featured: false
+featured: true
 
 links:
 - icon: arxiv

@@ -47,7 +47,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2201.01547'
+- icon: arxiv
+  icon_pack: ai
+  name: arXiv:2201.01547
+  url: https://arxiv.org/abs/2201.01547
 url_code: ''
 url_dataset: ''
 url_poster: ''

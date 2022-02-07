@@ -1,5 +1,5 @@
 ---
-title: "Extracting analytical one-loop amplitudes from numerical evaluations"
+title: "Polarised W+j production at the LHC: a study at NNLO QCD accuracy"
 authors:
 - admin
 - Rene Poncelet
@@ -26,23 +26,19 @@ abstract: test.
 summary: 
 
 tags:
+- LHC
+- Polarised prediction
 - QCD
-- Scattering Amplitudes
-- Loop Calculations
 featured: false
 
 links:
 - icon: arxiv
   icon_pack: ai
-  name: arXiv:1904.04067
-  url: https://arxiv.org/abs/1904.04067
+  name: arXiv:2109.14336
+  url: https://arxiv.org/abs/2109.14336
 - icon: inspire
   icon_pack: ai
-  name: inspire1728738
-  url: https://inspirehep.net/literature/1728738
-- icon: springer
-  icon_pack: ai
-  name: JHEP 07 (2019) 123
-  url: https://doi.org/10.1007/JHEP07(2019)123
+  name: inspire1934979
+  url: https://inspirehep.net/literature/1934979
   
 ---

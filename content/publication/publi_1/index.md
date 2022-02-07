@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: test for me. 
+abstract: We study polarisation of W-bosons produced in association with one jet at the LHC.
 
 # Summary. An optional shortened abstract.
 summary: 

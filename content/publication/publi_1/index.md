@@ -4,7 +4,7 @@ authors:
 - admin
 - Rene Poncelet
 - Andrei Popescu
-date: "2019-04-08"
+date: "2021-10-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: test.
+abstract: We study polarisation of W-bosons produced in association with one jet at the LHC. In particular, we provide all necessary theoretical ingredients for the precise extraction of polarisation fractions. To that end, we present new polarised predictions up to NNLO QCD accuracy employing the narrow-width approximation, in two phase spaces: inclusive and fiducial. We compare results in the fiducial phase space to a full off-shell computation as well as experimental data. Finally, we fit the polarisation fractions using shape templates and show that NNLO corrections significantly improve their determination.
 
 # Summary. An optional shortened abstract.
 summary: 

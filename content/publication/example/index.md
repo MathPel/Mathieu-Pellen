@@ -1,21 +1,19 @@
 ---
-title: "Test"
+title: "Quantum simulation of colour in perturbative quantum chromodynamics"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Gabriele Agliardi
-- Michele Grossi
+- Herschel A. Chawdhry
 - admin
-- Enrico Prati
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-02-03T00:00:00Z"
+date: "2023-03-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,8 +29,7 @@ doi: ""
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: We apply quantum integration to elementary particle-physics processes. In particular, we look at scattering processes such as e+ e− → q q̄ and e+ e− → q q̄ W. The corresponding probability distributions can be first appropriately loaded on a quantum computer using either quantum Generative Adversarial Networks or an exact method. The distributions are then integrated using the method of Quantum Amplitude Estimation which shows a quadratic speed-up with respect to classical techniques. In simulations of noiseless quantum computers, we obtain per-cent accurate results for one- and two-dimensional integration with up to six qubits. This work paves the way towards taking advantage of quantum algorithms for the integration of high-energy processes.
-
+abstract: Quantum computers are expected to give major speed-ups for the simulation of quantum systems. In this work, we present quantum gates that simulate the colour part of the interactions of quarks and gluons in perturbative quantum chromodynamics (QCD). As a first application, we implement these circuits on a simulated noiseless quantum computer and use them to calculate colour factors for various examples of Feynman diagrams. This work constitutes a first key step towards a quantum simulation of generic scattering processes in perturbative QCD.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -50,12 +47,8 @@ featured: true
 links:
 - icon: arxiv
   icon_pack: ai
-  name: arXiv:2201.01547
-  url: https://arxiv.org/abs/2201.01547
-- icon: inspire
-  icon_pack: ai
-  name: inspire2001819
-  url: https://inspirehep.net/literature/2001819
+  name: arXiv:2303.04818
+  url: https://arxiv.org/abs/2303.04818
 
 url_code: ''
 url_dataset: ''
@@ -68,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**2201.01547**](https://arxiv.org/abs/2201.01547)'
+  caption: 'Image credit: [**2303.04818**](https://arxiv.org/abs/2303.04818)'
   focal_point: ""
   preview_only: false
 

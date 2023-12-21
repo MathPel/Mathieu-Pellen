@@ -49,6 +49,10 @@ links:
   icon_pack: ai
   name: arXiv:2303.04818
   url: https://arxiv.org/abs/2303.04818
+- icon: inspire
+  icon_pack: ai
+  name: inspire2640041
+  url: https://inspirehep.net/literature/2640041
 
 url_code: ''
 url_dataset: ''

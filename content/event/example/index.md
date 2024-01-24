@@ -1,8 +1,8 @@
 ---
-title: Precision in W+c production at the LHC
+title: Theory input for the measurement of W+c production at the LHC
 
-event: Theory Seminar - MPP, Munich (Germany)
-event_url: https://indico.mpp.mpg.de/event/9479/
+event: High Energy Physics Seminar, Florida State University (USA)
+#event_url: https://indico.mpp.mpg.de/event/9479/
 
 # location: Wowchemy HQ
 # address:
@@ -17,7 +17,7 @@ abstract: W+c production at the LHC is a key process to determine precisely the 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-02-17T11:00:00Z"
+date: "2023-12-01T11:00:00Z"
 all_day: false
 
 ## Schedule page publish date (NOT talk date).
@@ -34,8 +34,7 @@ image:
   focal_point: Right
 
 links:
-url_slides: "slides/PELLEN_MPI_Wc.pdf"
-#url_slides: "slides/PELLEN_Heidelberg_2020.pdf"
+url_slides: "slides/PELLEN_FSU_Wc.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

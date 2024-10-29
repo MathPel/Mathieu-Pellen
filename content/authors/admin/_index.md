@@ -67,8 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a theoretical physicist working mainly on particle physics.
-My research focuses on the phenomenological and theoretical aspects of high-energy physics at hadron colliders and in particular the computation of higher-order corrections.
+I am a theoretical physicist specialising in particle physics, with a focus on high-energy phenomena at hadron colliders and the computation of higher-order corrections. My research also explores cutting-edge computational techniques, including quantum computing, machine learning, and GPU acceleration.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 

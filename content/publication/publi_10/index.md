@@ -37,7 +37,7 @@ abstract: Quantum computers are expected to give major speed-ups for the simulat
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

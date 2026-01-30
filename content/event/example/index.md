@@ -1,8 +1,8 @@
 ---
-title: Theory input for the measurement of W+c production at the LHC
+title: Vector-boson scattering and the Higgs boson
 
-event: High Energy Physics Seminar, Florida State University (USA)
-#event_url: https://indico.mpp.mpg.de/event/9479/
+event: Higgs Hunting 2025, Paris (France)
+event_url: https://indico.ijclab.in2p3.fr/event/11484/
 
 # location: Wowchemy HQ
 # address:
@@ -12,12 +12,12 @@ event: High Energy Physics Seminar, Florida State University (USA)
 #   postcode: '94305'
 #   country: United States
 
-summary: A discussion of W+c production at the LHC from a theoretical perspective.
-abstract: W+c production at the LHC is a key process to determine precisely the strange-quark content of the proton. To that end, precise theoretical predictions comparable with experimental data are required. In this presentation, I will give an overview of the theoretical ingredients needed to preform such a comparison. In particular, I will discuss fixed-order corrections of QCD and EW type, jet algorithms, and various definitions of the process. With upcoming precise experimental data, all these aspects should be perfectly understood in order to make reliable statements on the strange-quark content of the proton.
+summary: A discussion of vector-boson scattering and the Higgs boson from a theoretical perspective.
+abstract: In this talk, a personal perspective is given on the interplay between theory and experiment regarding vector-boson scattering and the Higgs boson at the LHC.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-12-01T11:00:00Z"
+date: "2025-07-16T14:00:00Z"
 all_day: false
 
 ## Schedule page publish date (NOT talk date).
@@ -34,7 +34,7 @@ image:
   focal_point: Right
 
 links:
-url_slides: "slides/PELLEN_FSU_Wc.pdf"
+url_slides: "slides/PELLEN_Higgs_hunting_2025.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
